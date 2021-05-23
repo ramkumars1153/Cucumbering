@@ -13,5 +13,5 @@ public class MavenTesting {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().setSize(new Dimension(600, 800));
-	}
+}
 }
