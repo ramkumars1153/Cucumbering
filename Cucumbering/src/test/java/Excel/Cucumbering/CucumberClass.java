@@ -5,7 +5,6 @@ public class CucumberClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("New class is created by RAM");
-
 	}
 
 }
